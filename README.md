@@ -79,7 +79,7 @@ Smart_Retail_Dynamic_Pricing/
 │   └── retail_sales.csv
 │
 ├── models/
-│   └── demand_model.pkl
+│   └── demand_model_compressed.pkl
 │
 ├── src/
 │   ├── generate_data.py
